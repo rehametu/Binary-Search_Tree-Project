@@ -11,7 +11,7 @@ ___[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını ya
 
 
 ==> 5, 7'den küçük olduğu için soluna yerleşir.
-||
+
 |---|---|---|---|---|
 ||
 |   |   | 7 |   |   |
